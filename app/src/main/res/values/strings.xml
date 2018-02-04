@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AyuPriyambodo_1202154303</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="dengan_milea">dengan Milea</string>
+    <string name="menu">Menu</string>
+    <string name="Porsi">Porsi</string>
+    <string name="eatbus">EatBus</string>
+    <string name="ubnormal">Ubnormal</string>
+    <string name="menu">Menu</string>
+    <string name="eatbus">EatBus</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="Porsi">Porsi</string>
+    <string name="total">Total</string>
+</resources>

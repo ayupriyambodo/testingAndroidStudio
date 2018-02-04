@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu" type="id">menu</item>
+    <item name="jumlah" type="id">jumlah</item>
+    <item name="hasilHarga" type="id">hasilharga</item>
+    <item name="hasilMenu" type="id">hasilmenu</item>
+    <item name="hasilPorsi" type="id">hasilporsi</item>
+    <item name="hasilTempat" type="id">hasiltempat</item>
+</resources>
